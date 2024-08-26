@@ -45,7 +45,7 @@ git clone https://github.com/AhmadKhan006/expense_tracker_python
 2. Navigate to the project directory:
 
 ```bash
-cd expense-tracker
+cd expense_tracker_python
 ```
 
 3. Run the application:
