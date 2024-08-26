@@ -51,5 +51,5 @@ cd expense_tracker_python
 3. Run the application:
 
 ```bash
-main.py
+python main.py
 ```
